@@ -3,8 +3,8 @@
   <groupId>org.inria.restlet</groupId>
   <artifactId>mta</artifactId>
   <version>0.0.1</version>
-  <name>My Twitter Application</name>
-  <description>My Twitter Application</description>
+  <name>My Station Application</name>
+  <description>My Station Application</description>
 
   <repositories>
 	  <repository>
